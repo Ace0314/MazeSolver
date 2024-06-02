@@ -7,3 +7,4 @@ lesson 6 done.
 lesson 7 done.
 lesson 8 done.
 lesson 9 done.
+lesson 10 done.
